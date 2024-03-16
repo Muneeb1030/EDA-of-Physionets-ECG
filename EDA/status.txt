@@ -1,0 +1,5 @@
+id        0
+age       55
+gender    0
+dx        0
+dtype: int64
