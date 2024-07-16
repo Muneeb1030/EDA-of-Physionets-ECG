@@ -18,16 +18,19 @@ Demonstrates the implementation of Incremental PCA to manage large ECG datasets 
 - Python 3.x
 - Pandas
 - Postgres Client
-- 
+- WFDB
+- Bioscopy
 
 ## Getting Started
 Clone the Repository:
 ```bash
-git clone https://github.com/Muneeb1030/WebScrapper_Politifact.git
+https://github.com/Muneeb1030/EDA-of-Physionets-ECG.git
 ```
 
 ## Install Dependencies:
-
+```bash
+pip install requirements.txt
+```
 
 ## Additional Information
 - **Customization:**
