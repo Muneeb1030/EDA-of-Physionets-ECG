@@ -15,7 +15,7 @@ Introduces Principal Component Analysis (PCA) as a tool to reduce the dimensiona
 ## Implementing Incremental PCA for Efficient Processing
 Demonstrates the implementation of Incremental PCA to manage large ECG datasets in manageable chunks, overcoming computational challenges and enabling deeper data exploration.
 
-Contribution Guidelines
+## Contribution Guidelines
 Contributions to this project are welcome! Here are ways you can contribute:
 
 - Enhance existing preprocessing techniques or introduce new methods for ECG signal analysis.
